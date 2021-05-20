@@ -7,7 +7,7 @@ Also you will find a github pages with my CV.
 
 ## Where to find me
 
-- [LinkedIn](https://www.linkedin.com/in/jaume-cadafalch-2260651a4/)
+- [[!LinkedIn](https://img.shields.io/badge/LinkedIn-Jaume_Cadafalch-0077B5?style=for-the-badge&logo=linkedin&logoColor=while&labelColor=101010)](https://www.linkedin.com/in/jaume-cadafalch-2260651a4/)
 - [Twitter](https://twitter.com/JaumeCadafalch)
 - [Instagram](https://www.instagram.com/jaumecadafalch/)
 - [Facebook](https://www.facebook.com/profile.php?id=100006049759233)
