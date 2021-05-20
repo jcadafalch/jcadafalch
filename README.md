@@ -3,7 +3,7 @@ I'm studing a higher technicians in developing multi-platform applications and h
 <!--
 **jcadafalch/jcadafalch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
+<!-- Enllaç youtube per fer els disenys de xarxes socials https://www.youtube.com/watch?v=EwoaIZY5tig -->
 ## Where to find me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaume_Cadafalch-0077B5?style=for-the-badge&logo=linkedin&logoColor=while&labelColor=101010)](https://www.linkedin.com/in/jaume-cadafalch-2260651a4/)
