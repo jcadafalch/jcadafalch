@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Jaume Cadafalch
 I'm studing a higher technicians in developing multi-platform applications and here you will find some projects and works that I've done.
-Also you will find a github pages with my CV.
 <!--
 **jcadafalch/jcadafalch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
