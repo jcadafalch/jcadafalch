@@ -39,7 +39,7 @@
 [![Slack](https://img.shields.io/badge/Slack-2F88E1?style=for-the-badge&logo=slack&logoColor=white&labelColor=101010)](https://slack.com/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&labelColor=101010)](https://www.atlassian.com/software/jira)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com//)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)](https://about.gitlab.com/
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)](https://about.gitlab.com/)
 </br>
 </br>
 
