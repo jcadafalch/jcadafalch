@@ -44,15 +44,15 @@
 </br>
 
 ## Find me at:
-[![Linkedin](https://img.shields.io/badge/-Jaume_Cadafalch-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jaume-cadafalch-2260651a4/)
-[![Twitter](https://img.shields.io/badge/-@JaumeCadafalch-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/JaumeCadafalch)
+[![Linkedin](https://img.shields.io/badge/-Jaume_Cadafalch-0b66c3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jaume-cadafalch-2260651a4/)
+[![Twitter](https://img.shields.io/badge/-@JaumeCadafalch-1d9af1?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/JaumeCadafalch)
 [![Instagram](https://img.shields.io/badge/-@jaumecadafalch-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee&labelColor=101010)](https://www.instagram.com/jaumecadafalch/)
-[![Facebook](https://img.shields.io/badge/-@Jaume_Cadafalch-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/profile.php?id=100006049759233)
+[![Facebook](https://img.shields.io/badge/-@Jaume_Cadafalch-0079f6?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/profile.php?id=100006049759233)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/jcadafalch)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)](https://gitlab.com/jcadafalch)
 
 ## :mailbox: Reach me out!
-[![Gmail](https://img.shields.io/badge/-jaumecadafalchmiro-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jaumecadafalchmiro@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Palmo_Palmo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://www.t.me/palmopalmo02)
+[![Gmail](https://img.shields.io/badge/-jaumecadafalchmiro-ea4234?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jaumecadafalchmiro@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Palmo_Palmo-2aa2dd?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://www.t.me/palmopalmo02)
 
 <!-- Badges https://dev.to/envoy_/150-badges-for-github-pnk-->
