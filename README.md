@@ -1,5 +1,5 @@
 # Hello my name is  Jaume Cadafalch  👋
-### Higher Professional Training Degree in Cross-platform Application Development student.
+### Senior Technician in Multiplatform Application Development
 
 - 🎯 Portfolio website: [Portfolio](https://jcadafalch.github.io/en.html)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
