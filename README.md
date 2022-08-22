@@ -1,8 +1,9 @@
 # Hello my name is  Jaume Cadafalch  👋
-### Senior Technician in Cross-platform Application Developmentt & Technician in microcomputer systems and networks.
+<h3> Senior Technician in Cross-platform Application Development. <br>
+Technician in microcomputer systems and networks. </h3>
 
 - 🎯 Portfolio website: [Portfolio](https://jcadafalch.github.io/en.html)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- ⚡ Fun fact: The first rule of programming - if it works, don’t touch it.🤓
 
 
 ## Skills:
