@@ -1,5 +1,5 @@
 # Hello my name is  Jaume Cadafalch  👋
-### Senior Technician in Multiplatform Application Development
+### Higher Technician in Multiplatform Application Development
 
 - 🎯 Portfolio website: [Portfolio](https://jcadafalch.github.io/en.html)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
